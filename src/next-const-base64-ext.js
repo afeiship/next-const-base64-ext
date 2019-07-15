@@ -6,7 +6,8 @@
     '/': 'jpg',
     i: 'png',
     R: 'gif',
-    U: 'webp'
+    U: 'webp',
+    P: 'svg'
   };
 
   if (typeof module !== 'undefined' && module.exports) {

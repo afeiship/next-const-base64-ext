@@ -2,7 +2,7 @@
  * name: next-const-base64-ext
  * url: https://github.com/afeiship/next-const-base64-ext
  * version: 1.0.0
- * date: 2019-07-08T03:56:29.663Z
+ * date: 2019-07-15T09:28:59.831Z
  * license: MIT
  */
 
@@ -14,7 +14,8 @@
     '/': 'jpg',
     i: 'png',
     R: 'gif',
-    U: 'webp'
+    U: 'webp',
+    P: 'svg'
   };
 
   if (typeof module !== 'undefined' && module.exports) {
